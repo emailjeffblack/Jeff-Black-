@@ -14,7 +14,7 @@ document.querySelectorAll('[data-edit]').forEach(b=>b.addEventListener('click',(
 
 
 const murals = {
-    mural1: "./projects.png",
+    mural1: "./projects2.png",
     mural2: "./Technology2.png",
     mural3: "./A Journey of Experiences.png"
 };
